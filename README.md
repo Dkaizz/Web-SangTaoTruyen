@@ -34,6 +34,7 @@
           +) Tìm chương theo tên, lọc chương theo trạng thái truyện.
           +) Hẹn giờ, lập lịch tự động đăng chương truyện.
           +) Thống kê, lập sơ đồ theo dữ liệu của truyện.
+          +) Responsive mobile, tablet, pc
 ## Api của web:
 
 - DefaultUrl: "http://dkaizz02-001-site1.gtempurl.com/api/";
