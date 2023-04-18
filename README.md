@@ -22,7 +22,7 @@
           +) Thêm, sửa, xóa, tìm kiếm truyện bản thân đã sáng tác.
           +) Thêm, sửa, xóa chương cho mỗi truyền.
           +) Tìm chương theo tên, lọc chương theo trạng thái truyện.
-          +) Hẹn giờ tự động đăng chương truyện.
+          +) Hẹn giờ, lập lịch tự động đăng chương truyện.
           +) Thống kê, lập sơ đồ theo dữ liệu của truyện.
 ## Api của web
 
