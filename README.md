@@ -22,10 +22,10 @@
           +) Đề cử truyển, lịch sử đề cử, tự động tăng lượt được đề cử hàng ngày khi đăng nhập.
           +) Thích chương truyện.
           +) Bình luận 2 cấp.
-          +) Thông báo.
+          +) Thông báo truyện ra chương mới cho những tài khoản đang theo dõi truyện đó.
           +) Xếp hạng truyên theo lượt đọc, đề cử, bình luận, thích, donate.
           +) Chỉnh sửa màu nền, màu chử, font chữ, dãn dòng của trang đọc truyện.
-          +) Theme dark/light.
+          +) Theme dark/light cho web.
           +) Đăng ký làm tác giả.
           +) Thêm sửa xóa tìm kiếm bản thảo.
           +) Tự động thêm mới cập nhật bản thảo.
