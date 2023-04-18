@@ -1,11 +1,15 @@
 # Web-SangTaoTruyen
 ## Giới thiệu:
 - Dạng web: SPA
+
 - Công nghệ sử dụng:
 
     - FrontEnd: HTML, javaScript, ReactJs, SASS/SCSS, Redux-Toolkit,...
    
     - BackEnd: Asp.net core Api, entity framework, Sql Server,...
+
+- Deploy: "http://sangtaotruyen.surge.sh/"
+ 
 - Tài khoản có thể dùng:
     - tài khoản: "admin" ; mật khẩu: "admin"
 ## Chức năng:
