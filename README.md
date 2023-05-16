@@ -41,7 +41,7 @@
           +) Tìm chương theo tên, lọc chương theo trạng thái truyện.
           +) Hẹn giờ, lập lịch tự động đăng chương truyện.
           +) Thống kê, lập sơ đồ theo dữ liệu của truyện.
-### Chatbox:
+### Chat:
           +) Tạo nhóm chat.
           +) Tạo Chat private một - một.
           +) Thu hồi tin nhắn.
