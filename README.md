@@ -4,15 +4,16 @@
 
 - Công nghệ sử dụng:
 
-    - FrontEnd: HTML, javaScript, ReactJs, SASS/SCSS, Redux-Toolkit,...
+    - FrontEnd: HTML, javaScript, ReactJs, SASS/SCSS, Redux-Toolkit,SignalR,...
    
-    - BackEnd: Asp.net core Api, entity framework, Sql Server,...
+    - BackEnd: Asp.net core Api, entity framework, Sql Server,SignalR,...
 
 - Deploy: "http://sangtaotruyen.surge.sh/"
  
 - Tài khoản có thể dùng:
     - tài khoản: "admin" ; mật khẩu: "admin"
 ## Chức năng:
+### Người dùng
           +) Đăng nhập, đăng ký.
           +) Cập nhật thông tin tài khoản người dùng, đổi mật khẩu.
           +) Xác thực tài khoản bằng email, khôi phục mật khẩu
@@ -30,6 +31,8 @@
           +) Xếp hạng truyên theo lượt đọc, đề cử, bình luận, thích, donate.
           +) Chỉnh sửa màu nền, màu chử, font chữ, dãn dòng của trang đọc truyện.
           +) Theme dark/light cho web.
+          +) Responsive mobile, tablet, pc
+### Tác Giả:          
           +) Đăng ký làm tác giả.
           +) Thêm sửa xóa tìm kiếm bản thảo.
           +) Tự động thêm mới cập nhật bản thảo.
@@ -38,7 +41,15 @@
           +) Tìm chương theo tên, lọc chương theo trạng thái truyện.
           +) Hẹn giờ, lập lịch tự động đăng chương truyện.
           +) Thống kê, lập sơ đồ theo dữ liệu của truyện.
-          +) Responsive mobile, tablet, pc
+### Chatbox:
+          +) Tạo nhóm chat.
+          +) Tạo Chat private một - một.
+          +) Thu hồi tin nhắn.
+          +) Nhắn tin trực tiếp.
+          +) Thêm mới thành viên vào nhóm.
+          +) Tự động cập nhất nhóm chat có tin nhắn mới nhất lên đầu.
+          +) Tìm kiếm nhóm của bản thân, tài khoản người dùng khác để chat.
+          +) Tìm kiếm tin nhắn trong chat.
 ## Api của web:
 
 - DefaultUrl: "http://dkaizz02-001-site1.gtempurl.com/api/";
