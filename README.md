@@ -37,7 +37,7 @@ Available login credentials: - Username: "admin";
       +) Dark/light theme for the website.
       +) Responsive design for mobile, tablet, and PC.
       
-  ## Author:
+  ### Author:
 
       +) Register as an author.
       +) Add, edit, delete, and search drafts.
@@ -49,7 +49,7 @@ Available login credentials: - Username: "admin";
       +) Statistics and diagrams based on story data.
       +) Dark/light theme for the website.
       
-  ## Chat:
+  ### Chat:
       +) Create chat groups.
       +) Create one-on-one private chats.
       +) Recall messages.
