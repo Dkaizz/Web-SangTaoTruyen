@@ -14,7 +14,7 @@ Deploy: "http://sangtaotruyen.surge.sh/"
 Available login credentials: - Username: "admin"; 
                              - Password: "admin";
 ## Features:
-### User:
+  ### User:
       +) Login, register.
       +) Update user account information, change password.
       +) Account verification via email, password recovery via email.
@@ -37,7 +37,7 @@ Available login credentials: - Username: "admin";
       +) Dark/light theme for the website.
       +) Responsive design for mobile, tablet, and PC.
       
-## Author:
+  ## Author:
 
       +) Register as an author.
       +) Add, edit, delete, and search drafts.
@@ -49,7 +49,7 @@ Available login credentials: - Username: "admin";
       +) Statistics and diagrams based on story data.
       +) Dark/light theme for the website.
       
-## Chat:
+  ## Chat:
       +) Create chat groups.
       +) Create one-on-one private chats.
       +) Recall messages.
@@ -86,7 +86,7 @@ Available login credentials: - Username: "admin";
 - Tài khoản có thể dùng:
     - tài khoản: "admin" ; mật khẩu: "admin"
 ## Chức năng:
-### Người dùng
+  ### Người dùng
           +) Đăng nhập, đăng ký.
           +) Cập nhật thông tin tài khoản người dùng, đổi mật khẩu.
           +) Xác thực tài khoản bằng email, khôi phục mật khẩu bằng email.
@@ -108,7 +108,7 @@ Available login credentials: - Username: "admin";
           +) Chỉnh sửa màu nền, màu chử, font chữ, dãn dòng của trang đọc truyện.
           +) Theme dark/light cho web.
           +) Responsive mobile, tablet, pc
-### Tác Giả:          
+  ### Tác Giả:          
           +) Đăng ký làm tác giả.
           +) Thêm sửa xóa tìm kiếm bản thảo.
           +) Tự động thêm mới cập nhật bản thảo.
@@ -118,7 +118,7 @@ Available login credentials: - Username: "admin";
           +) Hẹn giờ, lập lịch tự động đăng chương truyện.
           +) Thống kê, lập sơ đồ theo dữ liệu của truyện.
           +) Theme dark/light cho web.
-### Chat:
+  ### Chat:
           +) Tạo nhóm chat.
           +) Tạo Chat private một - một.
           +) Thu hồi tin nhắn.
