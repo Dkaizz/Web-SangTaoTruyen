@@ -1,4 +1,77 @@
-# Web-SangTaoTruyen
+# Web-SangTaoTruyen:
+
+## Introduction:
+Web type: Single Page Application (SPA)
+
+Technologies used:
+
+FrontEnd: HTML, JavaScript, ReactJs, SASS/SCSS, Redux-Toolkit, SignalR,...
+
+BackEnd: Asp.net core Api, entity framework,Linq, Sql Server, SignalR,...
+
+Deploy: "http://sangtaotruyen.surge.sh/"
+
+Available login credentials: - Username: "admin"; 
+                             - Password: "admin";
+## Features:
+### User:
+      +) Login, register.
+      +) Update user account information, change password.
+      +) Account verification via email, password recovery via email.
+      +) Search and filter stories by various data types.
+      +) Sort stories by various data types.
+      +) Pagination.
+      +) Reading history, continue reading from where left off.
+      +) Recently updated stories, top-rated stories.
+      +) Bookmark favorite stories.
+      +) Rate stories.
+      +) Nominate stories, view nomination history, automatically increase daily nominations count when logged in.
+      +) Like story chapters.
+      +) Like level 1 comments, like level 2 comments.
+      +) Like level 1 ratings, like rating replies.
+      +) Two-level commenting system.
+      +) Delete both level 1 and level 2 comments, delete both level 1 and level 2 ratings.
+      +) Notification of new chapters for followed stories.
+      +) Rank stories by views, nominations, comments, likes, donations.
+      +) Customize background color, font color, font style, line spacing of reading page.
+      +) Dark/light theme for the website.
+      +) Responsive design for mobile, tablet, and PC.
+      
+## Author:
+
+      +) Register as an author.
+      +) Add, edit, delete, and search drafts.
+      +) Automatically add new draft updates.
+      +) Add, edit, delete, and search own stories.
+      +) Add, edit, delete chapters for each story.
+      +) Search chapters by name, filter chapters by story status.
+      +) Schedule automatic chapter publishing.
+      +) Statistics and diagrams based on story data.
+      +) Dark/light theme for the website.
+      
+## Chat:
+      +) Create chat groups.
+      +) Create one-on-one private chats.
+      +) Recall messages.
+      +) Direct messaging.
+      +) Add new members to groups.
+      +) Automatically update chat groups with the latest messages at the top.
+      +) Search own groups, other user accounts for chatting.
+      +) Search messages within chats.
+      
+## Web APIs:
+- DefaultUrl: "http://dkaizz02-001-site1.gtempurl.com/api/";
+- View Json Api link: <a href="http://dkaizz02-001-site1.gtempurl.com/api/swagger/view/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">View Swagger JSON Api</button></a>;
+- Download Json Api link: <a href="http://dkaizz02-001-site1.gtempurl.com/api/swagger/download/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">Download Swagger JSON Api</button></a>(Copy the link and paste it in a new tab);
+- Note: To use the API, use DefaultUrl + the path in the Json API + parameters/body (if any);
+
+
+
+
+#
+#
+#
+
 ## Giới thiệu:
 - Dạng web: SPA
 
