@@ -21,7 +21,7 @@ Available login credentials: - Username: "admin";
       +) Search and filter stories by various data types.
       +) Sort stories by various data types.
       +) Pagination.
-      +) Reading history, continue reading from where left off.
+      +) Reading history.
       +) Recently updated stories, top-rated stories.
       +) Bookmark favorite stories.
       +) Rate stories.
@@ -93,7 +93,7 @@ Available login credentials: - Username: "admin";
           +) Tìm kiếm, lọc truyện theo nhiều dạng dữ liệu.
           +) Xắp sếp theo nhiều dạng dữ liệu.
           +) Phân trang.
-          +) Lịch sử đọc truyện, đọc tiếp phần trước.
+          +) Lịch sử đọc truyện.
           +) Truyện mới cập nhật, truyện đánh giá cao.
           +) Đánh dấu truyện yêu thích.
           +) Đánh giá truyện.
