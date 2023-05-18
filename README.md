@@ -14,6 +14,15 @@ Deploy: "http://sangtaotruyen.surge.sh/"
 Available login credentials: - Username: "admin"; 
                              - Password: "admin";
 ## Features:
+
+### System:
+  + Authentication JwtBearer.
+  + The CORS policy defines.
+  + Encode passWord in database and client, server.
+  + Returning images through an API.
+  
+  
+  
   ### User:
       +) Login, register.
       +) Update user account information, change password.
@@ -86,6 +95,12 @@ Available login credentials: - Username: "admin";
 - Tài khoản có thể dùng:
     - tài khoản: "admin" ; mật khẩu: "admin"
 ## Chức năng:
+### Hệ thống:
+  + Authentication JwtBearer.
+  + bảo mật CORS.
+  + mã hóa mật khẩu trong database, client và server.
+  + trả về hình ảnh thông qua Api.
+  
   ### Người dùng
           +) Đăng nhập, đăng ký.
           +) Cập nhật thông tin tài khoản người dùng, đổi mật khẩu.
