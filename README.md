@@ -24,49 +24,48 @@ Available login credentials: - Username: "admin";
   
   
   ### User:
-      +) Login, register.
-      +) Update user account information, change password.
-      +) Account verification via email, password recovery via email.
-      +) Search and filter stories by various data types.
-      +) Sort stories by various data types.
-      +) Pagination.
-      +) Reading history.
-      +) Recently updated stories, top-rated stories.
-      +) Bookmark favorite stories.
-      +) Rate stories.
-      +) Nominate stories, view nomination history, automatically increase daily nominations count when logged in.
-      +) Like story chapters.
-      +) Like level 1 comments, like level 2 comments.
-      +) Like level 1 ratings, like rating replies.
-      +) Two-level commenting system.
-      +) Delete both level 1 and level 2 comments, delete both level 1 and level 2 ratings.
-      +) Notification of new chapters for followed stories.
-      +) Rank stories by views, nominations, comments, likes, donations.
-      +) Customize background color, font color, font style, line spacing of reading page.
-      +) Dark/light theme for the website.
-      +) Responsive design for mobile, tablet, and PC.
+      + Login, register.
+      + Update user account information, change password.
+      + Account verification via email, password recovery via email.
+      + Search and filter stories by various data types.
+      + Sort stories by various data types.
+      + Pagination.
+      + Reading history.
+      + Recently updated stories, top-rated stories.
+      + Bookmark favorite stories.
+      + Rate stories.
+      + Nominate stories, view nomination history, automatically increase daily nominations count when logged in.
+      + Like story chapters.
+      + Like level 1 comments, like level 2 comments.
+      + Like level 1 ratings, like rating replies.
+      + Two-level commenting system.
+      + Delete both level 1 and level 2 comments, delete both level 1 and level 2 ratings.
+      + Notification of new chapters for followed stories.
+      + Rank stories by views, nominations, comments, likes, donations.
+      + Customize background color, font color, font style, line spacing of reading page.
+      + Dark/light theme for the website.
+      + Responsive design for mobile, tablet, and PC.
       
   ### Author:
 
-      +) Register as an author.
-      +) Add, edit, delete, and search drafts.
-      +) Automatically add new draft updates.
-      +) Add, edit, delete, and search own stories.
-      +) Add, edit, delete chapters for each story.
-      +) Search chapters by name, filter chapters by story status.
-      +) Schedule automatic chapter publishing.
-      +) Statistics and diagrams based on story data.
-      +) Dark/light theme for the website.
-      
-  ### Chat:
-      +) Create chat groups.
-      +) Create one-on-one private chats.
-      +) Recall messages.
-      +) Direct messaging.
-      +) Add new members to groups.
-      +) Automatically update chat groups with the latest messages at the top.
-      +) Search own groups, other user accounts for chatting.
-      +) Search messages within chats.
+      + Register as an author.
+      + Add, edit, delete, and search drafts.
+      + Automatically add new draft updates.
+      + Add, edit, delete, and search own stories.
+      + Add, edit, delete chapters for each story.
+      + Search chapters by name, filter chapters by story status.
+      + Schedule automatic chapter publishing.
+      + Statistics and diagrams based on story data.
+      + Dark/light theme for the website.
+        ### Chat:
+      + Create chat groups.
+      + Create one-on-one private chats.
+      + Recall messages.
+      + Direct messaging.
+      + Add new members to groups.
+      + Automatically update chat groups with the latest messages at the top.
+      + Search own groups, other user accounts for chatting.
+      + Search messages within chats.
       
 ## Web APIs:
 - DefaultUrl: "http://dkaizz02-001-site1.gtempurl.com/api/";
@@ -96,10 +95,10 @@ Available login credentials: - Username: "admin";
     - tài khoản: "admin" ; mật khẩu: "admin"
 ## Chức năng:
 ### Hệ thống:
-  + Authentication JwtBearer.
-  + bảo mật CORS.
-  + mã hóa mật khẩu trong database, client và server.
-  + trả về hình ảnh thông qua Api.
+  +) Authentication JwtBearer.
+  +) bảo mật CORS.
+  +) mã hóa mật khẩu trong database, client và server.
+  +) trả về hình ảnh thông qua Api.
   
   ### Người dùng
           +) Đăng nhập, đăng ký.
