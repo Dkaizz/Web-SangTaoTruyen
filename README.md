@@ -66,7 +66,7 @@ Available login credentials: - Username: "admin";
       + Search messages within chats.
       
 ## Web APIs:
-- DefaultUrl: "[http://dkaizz09-001-site1.ftempurl.com/api/](http://dkaizz09-001-site1.ftempurl.com/api/swagger/view/)";
+- DefaultUrl: "http://dkaizz09-001-site1.ftempurl.com/api/";
 - View Json Api link: <a href="http://dkaizz09-001-site1.ftempurl.com/api/swagger/view/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">View Swagger JSON Api</button></a>;
 - Download Json Api link: <a href="http://dkaizz09-001-site1.ftempurl.com/api/swagger/download/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">Download Swagger JSON Api</button></a>(Copy the link and paste it in a new tab);
 - Note: To use the API, use DefaultUrl + the path in the Json API + parameters/body (if any);
