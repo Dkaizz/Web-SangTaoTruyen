@@ -66,7 +66,7 @@ Available login credentials: - Username: "admin";
       + Search messages within chats.
       
 ## Web APIs:
-- DefaultUrl: "http://dkaizz05-001-site1.htempurl.com/api/";
+- DefaultUrl: "http://dkaizz09-001-site1.htempurl.com/api/";
 - View Json Api link: <a href="http://dkaizz09-001-site1.gtempurl.com/api/swagger/view/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">View Swagger JSON Api</button></a>;
 - Download Json Api link: <a href="http://dkaizz09-001-site1.gtempurl.com/api/swagger/download/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">Download Swagger JSON Api</button></a>(Copy the link and paste it in a new tab);
 - Note: To use the API, use DefaultUrl + the path in the Json API + parameters/body (if any);
@@ -140,7 +140,7 @@ Available login credentials: - Username: "admin";
           +) Tìm kiếm tin nhắn trong chat.
 ## Api của web:
 
-- DefaultUrl: " http://dkaizz05-001-site1.htempurl.com/api/";
+- DefaultUrl: " http://dkaizz09-001-site1.htempurl.com/api/";
 - link view Json Api: <a href="http://dkaizz09-001-site1.gtempurl.com/api/swagger/view/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">View Swagger JSON Api</button></a>;
 - Link download Json Api: <a href="http://dkaizz09-001-site1.gtempurl.com/api/swagger/download/" download="WebTruyenApiSwagger.json"><button class="btn btn-green">Download Swagger JSON Api</button></a>(Sao chép link và dán ra tap mới);
 - Note: Muốn sử dụng api thì dùng DefaultUrl + path trong Json Api + param/body(nếu có);
